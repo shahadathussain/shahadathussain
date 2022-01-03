@@ -1,5 +1,3 @@
-![Web Developer](https://scontent.fdac80-1.fna.fbcdn.net/v/t39.30808-6/246760240_108576594944974_2667072403010774013_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeH8WTdt6Hfj9Ngb5-_rSlBgx_kcJ07miBXH-RwnTuaIFXulU2abF6tRPQYLnIXKrpSKZ3-feNuaL5rBe8xMu_6y&_nc_ohc=JVfXFoWfpd4AX9NJgVr&tn=D0jBGhJEwhn38-De&_nc_ht=scontent.fdac80-1.fna&oh=00_AT_9MwNGAfNG_pODAcyWK9YOXvJxzOo5SIr5gFWfk1PL4A&oe=61D7B7F4)
-
 
 ### Hi there 👋, my name is Shahadat Hossain
 #### Web Developer
